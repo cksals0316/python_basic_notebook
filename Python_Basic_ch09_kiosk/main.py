@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##############################
 # CNU 버거 키오스크
 # -일자: 2023년 05월 02일
@@ -76,3 +77,7 @@ print(menu_save)
 print(price_save)
 
 
+=======
+print("Hello Kiosk"
+      "")
+>>>>>>> origin/main
